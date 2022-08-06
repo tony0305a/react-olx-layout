@@ -1,4 +1,5 @@
-# New React App with configured features:
+# New React App with configured features
+# Run npm install after clone
 
 ## Provider
 ## Global style with styled-components
